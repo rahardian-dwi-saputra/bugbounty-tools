@@ -15,7 +15,12 @@ pip install .
 ```sh
 paramspider -d <domain>
 ```
+
+![alt text](https://github.com/rahardian-dwi-saputra/bugbounty-tools/blob/main/assets/paramspider/ps%201.JPG)
+
 - Hasil akan tersimpan otomatis dalam folder **results**
 ```sh
 cat results/nama_file
 ```
+
+![alt text](https://github.com/rahardian-dwi-saputra/bugbounty-tools/blob/main/assets/paramspider/ps%202.JPG)
