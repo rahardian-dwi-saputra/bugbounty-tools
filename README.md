@@ -1,14 +1,13 @@
 # Bug Bounty Tool
-List tool Bug Bounty dan contoh penggunaannya
+Daftar tools Bug Bounty dan contoh penggunaannya
 
 ## Content
 
-### Parameter
-- [ParamSpider](tools/parameter/paramspider.md)
-- [x8](tools/parameter/x8.md)
-
-## Subdomain
-- [Sublist3r](tools/subdomain/sublist3r.md)
+- Parameter
+	- [ParamSpider](tools/parameter/paramspider.md)
+	- [x8](tools/parameter/x8.md)
+- Subdomain
+	- [Sublist3r](tools/subdomain/sublist3r.md)
 
 ### XSS Injection
 - [dalfox](tools/xss%20injected/dalfox.md)
