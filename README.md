@@ -8,11 +8,13 @@ Daftar tools Bug Bounty dan contoh penggunaannya
 	- [x8](tools/parameter/x8.md)
 - Subdomain
 	- [Sublist3r](tools/subdomain/sublist3r.md)
-
-### XSS Injection
-- [dalfox](tools/xss%20injected/dalfox.md)
-- [XSpear](tools/xss%20injected/XSpear.md)
-- [XSStrike](tools/xss%20injected/XSStrike.md)
+	- [Subfinder](tools/subdomain/subfinder.md)
+- Teknologi
+	- [whatweb](tools/teknologi/whatweb.md)
+- XSS Injection
+	- [dalfox](tools/xss%20injected/dalfox.md)
+	- [XSpear](tools/xss%20injected/XSpear.md)
+	- [XSStrike](tools/xss%20injected/XSStrike.md)
 
 ## Disclaimer
 Dilarang keras menyalagunakan tools diatas untuk tindakan ilegal

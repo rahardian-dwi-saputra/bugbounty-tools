@@ -8,9 +8,13 @@ Tool ini digunakan untuk mencari sub domain
 sudo apt install subfinder
 ```
 
-
+![alt text](https://github.com/rahardian-dwi-saputra/bugbounty-tools/blob/main/assets/subfinder/subfinder%201.JPG)
 
 - Pemakaian
 ```sh
 subfinder -d domain
 ```
+
+![alt text](https://github.com/rahardian-dwi-saputra/bugbounty-tools/blob/main/assets/subfinder/subfinder%202.JPG)
+
+![alt text](https://github.com/rahardian-dwi-saputra/bugbounty-tools/blob/main/assets/subfinder/subfinder%203.JPG)
