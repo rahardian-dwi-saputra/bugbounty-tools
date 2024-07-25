@@ -13,7 +13,7 @@ Daftar tools Bug Bounty dan contoh penggunaannya
 - Teknologi
 	- [whatweb](tools/teknologi/whatweb.md)
 - Vulnerability
-	- [nikto]()
+	- [nikto](tools/vulnerability/nikto.md)
 - XSS Injection
 	- [dalfox](tools/xss%20injected/dalfox.md)
 	- [XSpear](tools/xss%20injected/XSpear.md)
