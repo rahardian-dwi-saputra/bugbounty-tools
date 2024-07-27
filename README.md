@@ -3,15 +3,19 @@ Daftar tools Bug Bounty dan contoh penggunaannya
 
 ## Content
 
-- Parameter
-	- [Arjun](tools/parameter/arjun.md)
-	- [ParamSpider](tools/parameter/paramspider.md)
-	- [x8](tools/parameter/x8.md)
 - Subdomain
 	- [Sublist3r](tools/subdomain/sublist3r.md)
 	- [Subfinder](tools/subdomain/subfinder.md)
 - Teknologi
 	- [whatweb](tools/teknologi/whatweb.md)
+	- [webanalyze](tools/teknologi/webanalyze.md)
+- Content Discovery
+	- [feroxbuster](tools/content%20discovery/feroxbuster.md)
+	- [gospider](tools/content%20discovery/gospider.md)
+- Parameter
+	- [Arjun](tools/parameter/arjun.md)
+	- [ParamSpider](tools/parameter/paramspider.md)
+	- [x8](tools/parameter/x8.md)
 - Vulnerability
 	- [nikto](tools/vulnerability/nikto.md)
 - XSS Injection
