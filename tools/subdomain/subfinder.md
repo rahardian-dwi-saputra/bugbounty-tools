@@ -1,5 +1,5 @@
 # Subfinder
-Tool ini digunakan untuk mencari sub domain
+Tool ini digunakan untuk mencari sub domain dari suatu domain
 
 - Link download dan instalasi: https://github.com/projectdiscovery/subfinder
 
