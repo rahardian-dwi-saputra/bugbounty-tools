@@ -9,6 +9,7 @@ Daftar tools Bug Bounty dan contoh penggunaannya
 - Teknologi
 	- [whatweb](tools/teknologi/whatweb.md)
 	- [webanalyze](tools/teknologi/webanalyze.md)
+	- [httpx](tools/teknologi/httpx.md)
 - Content Discovery
 	- [feroxbuster](tools/content%20discovery/feroxbuster.md)
 	- [gospider](tools/content%20discovery/gospider.md)
