@@ -12,7 +12,7 @@ sudo apt install subfinder
 
 - Pemakaian
 ```sh
-subfinder -d domain
+subfinder -d domain -o file_name
 ```
 
 ![alt text](https://github.com/rahardian-dwi-saputra/bugbounty-tools/blob/main/assets/subfinder/subfinder%202.JPG)

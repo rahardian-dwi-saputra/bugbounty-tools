@@ -12,7 +12,7 @@ sudo apt install sublist3r
 
 - Pemakaian
 ```sh
-sublist3r -d domain
+sublist3r -d domain -o file_name
 ```
 
 ![alt text](https://github.com/rahardian-dwi-saputra/bugbounty-tools/blob/main/assets/sublist3r/sub%202.JPG)
