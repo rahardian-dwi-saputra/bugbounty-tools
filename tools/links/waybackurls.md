@@ -1,5 +1,5 @@
 # waybackurls
-Tool ini digunakan untuk mengumpulkan link aktif dari suatu website yang berada di internet
+Tool ini digunakan untuk mengumpulkan link aktif dari suatu website yang berada di Wayback Machine
 
 - Link download dan instalasi: https://github.com/tomnomnom/waybackurls
 
@@ -37,3 +37,13 @@ cat live-domains.txt | waybackurls > urls
 - Dari percobaan diatas diperoleh 2.086.496 link yang aktif
 
 ![alt text](https://github.com/rahardian-dwi-saputra/bugbounty-tools/blob/main/assets/waybackurls/waybackurls%205.JPG)
+
+![alt text](https://github.com/rahardian-dwi-saputra/bugbounty-tools/blob/main/assets/waybackurls/waybackurls%206.JPG)
+
+- Contoh pengujian pada web `http://testphp.vulnweb.com/`
+
+![alt text](https://github.com/rahardian-dwi-saputra/bugbounty-tools/blob/main/assets/waybackurls/waybackurls%207.JPG)
+
+- Pada web `http://testphp.vulnweb.com/` ditemukan 10.258
+
+![alt text](https://github.com/rahardian-dwi-saputra/bugbounty-tools/blob/main/assets/waybackurls/waybackurls%208.JPG)
