@@ -13,6 +13,7 @@ Daftar tools Bug Bounty dan contoh penggunaannya
 - Content Discovery
 	- [feroxbuster](tools/content%20discovery/feroxbuster.md)
 	- [gospider](tools/content%20discovery/gospider.md)
+	- [katana](tools/content%20discovery/katana.md)
 - Parameter
 	- [Arjun](tools/parameter/arjun.md)
 	- [ParamSpider](tools/parameter/paramspider.md)
