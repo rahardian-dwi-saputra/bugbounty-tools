@@ -2,6 +2,7 @@
 Tool ini digunakan untuk menemukan teknologi yang digunakan oleh suatu web seperti web server, CMS, library JavaScript dan sebagainya
 
 - Link download dan instalasi: https://github.com/projectdiscovery/httpx
+- Dokumentasi: https://docs.projectdiscovery.io/tools/httpx/running
 
 ## Instalasi
 - Install menggunakan tool go

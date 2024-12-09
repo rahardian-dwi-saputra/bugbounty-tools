@@ -1,5 +1,10 @@
 # Bug Bounty Tools
-Daftar tools Bug Bounty dan contoh penggunaannya
+Daftar tools untuk Bug Bounty dan contoh penggunaannya di mesin Kali Linux
+
+## Requirement
+- Beberapa tools dibuat menggunakan bahasa pemrograman golang, sehingga anda perlu menginstall golang terlebih dahulu
+- Kunjungi web https://go.dev/dl/ untuk mendownload package
+- Untuk cara instalasi bisa dilihat di https://go.dev/doc/install
 
 ## Content
 

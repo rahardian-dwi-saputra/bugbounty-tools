@@ -41,9 +41,12 @@ cat live-domains.txt | waybackurls > urls
 ![alt text](https://github.com/rahardian-dwi-saputra/bugbounty-tools/blob/main/assets/waybackurls/waybackurls%206.JPG)
 
 - Contoh pengujian pada web `http://testphp.vulnweb.com/`
+```sh
+echo URL | waybackurls > file_name
+```
 
 ![alt text](https://github.com/rahardian-dwi-saputra/bugbounty-tools/blob/main/assets/waybackurls/waybackurls%207.JPG)
 
-- Pada web `http://testphp.vulnweb.com/` ditemukan 10.258
+- Pada web `http://testphp.vulnweb.com/` ditemukan 10.258 link
 
 ![alt text](https://github.com/rahardian-dwi-saputra/bugbounty-tools/blob/main/assets/waybackurls/waybackurls%208.JPG)
