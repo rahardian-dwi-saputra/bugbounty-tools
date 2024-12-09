@@ -28,6 +28,7 @@ Daftar tools untuk Bug Bounty dan contoh penggunaannya di mesin Kali Linux
 	- [x8](tools/parameter/x8.md)
 - Vulnerability
 	- [nikto](tools/vulnerability/nikto.md)
+	- [nuclei](tools/vulnerability/nuclei.md)
 - XSS Injection
 	- [dalfox](tools/xss%20injected/dalfox.md)
 	- [XSpear](tools/xss%20injected/XSpear.md)
