@@ -10,11 +10,25 @@ sudo apt install sublist3r
 
 ![alt text](https://github.com/rahardian-dwi-saputra/bugbounty-tools/blob/main/assets/sublist3r/sub%201.JPG)
 
+- Panduan penggunaan tool
+```sh
+sublist3r --help
+```
+
+![alt text](https://github.com/rahardian-dwi-saputra/bugbounty-tools/blob/main/assets/sublist3r/sub%202.JPG)
+
 - Pemakaian
 ```sh
 sublist3r -d domain -o file_name
 ```
 
-![alt text](https://github.com/rahardian-dwi-saputra/bugbounty-tools/blob/main/assets/sublist3r/sub%202.JPG)
-
 ![alt text](https://github.com/rahardian-dwi-saputra/bugbounty-tools/blob/main/assets/sublist3r/sub%203.JPG)
+
+![alt text](https://github.com/rahardian-dwi-saputra/bugbounty-tools/blob/main/assets/sublist3r/sub%204.JPG)
+
+- Menghitung jumlah subdomain yang ditemukan
+```sh
+cat file_name | wc -l
+```
+
+![alt text](https://github.com/rahardian-dwi-saputra/bugbounty-tools/blob/main/assets/sublist3r/sub%205.JPG)

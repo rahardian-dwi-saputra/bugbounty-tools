@@ -26,14 +26,31 @@ httprobe --help
 ![alt text](https://github.com/rahardian-dwi-saputra/bugbounty-tools/blob/main/assets/httprobe/httprobe%203.JPG)
 
 ## Contoh Penggunaan
-- Sebelumnya menggunakan tool ini, anda disarankan untuk mengumpulkan sub domain dari suatu domain menggunakan tool untuk mencari sub domain seperti [subfinder](https://github.com/rahardian-dwi-saputra/bugbounty-tools/blob/main/tools/subdomain/subfinder.md) dan [sublist3r](https://github.com/rahardian-dwi-saputra/bugbounty-tools/blob/main/tools/subdomain/sublist3r.md)
-- Berikut ini pengecekan sub domain aktif dari `google.com`
-```sh
-cat subdomains.txt | httprobe | tee live-domains.txt
-```
+- Sebelumnya menggunakan tool ini, anda disarankan untuk mengumpulkan sub domain dari suatu domain menggunakan beberapa tool dibawah ini:
+	- [subfinder](https://github.com/rahardian-dwi-saputra/bugbounty-tools/blob/main/tools/subdomain/subfinder.md) 
+	- [sublist3r](https://github.com/rahardian-dwi-saputra/bugbounty-tools/blob/main/tools/subdomain/sublist3r.md)
+- Setelah menggunakan 3 tools diatas, kita akan memperoleh 3 file yang berisi daftar sud-domain dengan jumlah yang berbeda
 
 ![alt text](https://github.com/rahardian-dwi-saputra/bugbounty-tools/blob/main/assets/httprobe/httprobe%204.JPG)
 
-- Dari percobaan diatas diperoleh 45 sub domain yang aktif
+- Gabungkan 3 file diatas dengan perintah berikut
+```sh
+sort -u file1 file2 file3 > output_filename
+```
 
 ![alt text](https://github.com/rahardian-dwi-saputra/bugbounty-tools/blob/main/assets/httprobe/httprobe%205.JPG)
+
+- Hasil penggabungan menjadi 677 baris
+
+![alt text](https://github.com/rahardian-dwi-saputra/bugbounty-tools/blob/main/assets/httprobe/httprobe%206.JPG)
+
+- Selanjutnya lakukan pengecekan live sub-domain menggunakan tool `httprobe`
+```sh
+cat subdomain_file | httprobe | tee output_filename
+```
+
+![alt text](https://github.com/rahardian-dwi-saputra/bugbounty-tools/blob/main/assets/httprobe/httprobe%207.JPG)
+
+- Dari percobaan diatas diperoleh 1116 sub domain yang aktif
+
+![alt text](https://github.com/rahardian-dwi-saputra/bugbounty-tools/blob/main/assets/httprobe/httprobe%208.JPG)

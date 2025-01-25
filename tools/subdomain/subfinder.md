@@ -10,11 +10,25 @@ sudo apt install subfinder
 
 ![alt text](https://github.com/rahardian-dwi-saputra/bugbounty-tools/blob/main/assets/subfinder/subfinder%201.JPG)
 
-- Pemakaian
+- Panduan penggunaan tool
 ```sh
-subfinder -d domain -o file_name
+subfinder --help
 ```
 
 ![alt text](https://github.com/rahardian-dwi-saputra/bugbounty-tools/blob/main/assets/subfinder/subfinder%202.JPG)
 
+- Pemakaian
+```sh
+subfinder -d domain -all -recursive -o subdomains2.txt
+```
+
 ![alt text](https://github.com/rahardian-dwi-saputra/bugbounty-tools/blob/main/assets/subfinder/subfinder%203.JPG)
+
+![alt text](https://github.com/rahardian-dwi-saputra/bugbounty-tools/blob/main/assets/subfinder/subfinder%204.JPG)
+
+- Menghitung jumlah subdomain yang ditemukan
+```sh
+cat file_name | wc -l
+```
+
+![alt text](https://github.com/rahardian-dwi-saputra/bugbounty-tools/blob/main/assets/subfinder/subfinder%205.JPG)
