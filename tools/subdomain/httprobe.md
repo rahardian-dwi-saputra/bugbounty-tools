@@ -27,6 +27,7 @@ httprobe --help
 
 ## Contoh Penggunaan
 - Sebelumnya menggunakan tool ini, anda disarankan untuk mengumpulkan sub domain dari suatu domain menggunakan beberapa tool dibawah ini:
+	- [assetfinder](https://github.com/rahardian-dwi-saputra/bugbounty-tools/blob/main/tools/subdomain/assetfinder.md)
 	- [subfinder](https://github.com/rahardian-dwi-saputra/bugbounty-tools/blob/main/tools/subdomain/subfinder.md) 
 	- [sublist3r](https://github.com/rahardian-dwi-saputra/bugbounty-tools/blob/main/tools/subdomain/sublist3r.md)
 - Setelah menggunakan 3 tools diatas, kita akan memperoleh 3 file yang berisi daftar sud-domain dengan jumlah yang berbeda
