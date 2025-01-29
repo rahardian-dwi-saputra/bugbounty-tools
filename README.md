@@ -13,6 +13,8 @@ Daftar tools untuk Bug Bounty dan contoh penggunaannya di mesin Kali Linux
 	- [Sublist3r](tools/subdomain/sublist3r.md)
 	- [Subfinder](tools/subdomain/subfinder.md)
 	- [httprobe](tools/subdomain/httprobe.md)
+- Subdomain takeover
+	- [subzy](tools/subdomain%20takeover/subzy.md)
 - Teknologi
 	- [whatweb](tools/teknologi/whatweb.md)
 	- [webanalyze](tools/teknologi/webanalyze.md)
