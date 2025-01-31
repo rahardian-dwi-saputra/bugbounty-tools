@@ -40,4 +40,6 @@ dirsearch -u url -e conf,config,bak,backup,txt,php,cache,cgi,sql,sql.gz,sql.zip,
 
 ![alt text](https://github.com/rahardian-dwi-saputra/bugbounty-tools/blob/main/assets/dirsearch/dirsearch%205.JPG)
 
+- Contoh hasil
+
 ![alt text](https://github.com/rahardian-dwi-saputra/bugbounty-tools/blob/main/assets/dirsearch/dirsearch%206.JPG)
