@@ -23,8 +23,10 @@ Daftar tools untuk Bug Bounty dan contoh penggunaannya di mesin Kali Linux
 	- [feroxbuster](tools/content%20discovery/feroxbuster.md)
 	- [gospider](tools/content%20discovery/gospider.md)
 	- [katana](tools/content%20discovery/katana.md)
+	- [dirsearch](tools/content%20discovery/dirsearch.md)
 - Links
 	- [waybackurls](tools/links/waybackurls.md)
+	- [gau](tools/links/gau.md)
 - Parameter
 	- [Arjun](tools/parameter/arjun.md)
 	- [ParamSpider](tools/parameter/paramspider.md)
