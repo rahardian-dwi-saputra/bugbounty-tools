@@ -24,3 +24,10 @@ cat results/nama_file
 ```
 
 ![alt text](https://github.com/rahardian-dwi-saputra/bugbounty-tools/blob/main/assets/paramspider/ps%202.JPG)
+
+- Anda juga bisa memindahkan hasil ke folder lain
+```sh
+mv results/nama_file folder_tujuan
+```
+
+![alt text](https://github.com/rahardian-dwi-saputra/bugbounty-tools/blob/main/assets/paramspider/ps%203.JPG)

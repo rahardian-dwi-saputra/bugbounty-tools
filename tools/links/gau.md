@@ -18,7 +18,7 @@ sudo mv go/bin/gau /usr/bin
 
 ![alt text](https://github.com/rahardian-dwi-saputra/bugbounty-tools/blob/main/assets/gau/gau%202.JPG)
 
-- Dokumentasi cara penggunaan tool httprobe bisa dilihat dengan perintah berikut
+- Dokumentasi cara penggunaan tool gau bisa dilihat dengan perintah berikut
 ```sh
 gau -h
 ```
