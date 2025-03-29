@@ -12,6 +12,7 @@ Daftar tools untuk Bug Bounty dan contoh penggunaannya di mesin Kali Linux
 	- [assetfinder](tools/subdomain/assetfinder.md)
 	- [Sublist3r](tools/subdomain/sublist3r.md)
 	- [Subfinder](tools/subdomain/subfinder.md)
+	- [Findomain](tools/subdomain/findomain.md)
 	- [httprobe](tools/subdomain/httprobe.md)
 - Subdomain takeover
 	- [subzy](tools/subdomain%20takeover/subzy.md)
